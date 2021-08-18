@@ -26,6 +26,7 @@ social:
     link: https://www.linkedin.com/
 organizations:
   - name: Université de Lille
+    url: https://www.univ-lille.fr/
 education:
   courses:
     - course: PhD in Artificial Intelligence
