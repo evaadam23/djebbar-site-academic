@@ -2,6 +2,7 @@
 title: Ahmed Djebbar
 role: " Professeur émérite, mathématicien, historien des sciences et des
   mathématiques algérien"
+avatar_filename: ahmed_djebbar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
