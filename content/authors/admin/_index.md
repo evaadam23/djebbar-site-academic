@@ -14,7 +14,7 @@ social:
     link: /#contact
   - display:
       header: false
-    link: https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSBptKznzTRZsjkTHWBhnBmjffMJTdQFhwKZqLGtHjhdmNNmncpqglFPkPswkDDBZsKpcPMV
+    link: mailto:ahmed.djebbar@math.univ-lille1.fr
     icon_pack: fas
     icon: graduation-cap
 organizations:
