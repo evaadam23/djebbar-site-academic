@@ -2,27 +2,22 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Professeur Émérite
+    company: Université des Sciences et des Technologies de Lille
     company_url: ""
-    company_logo: org-gc
-    location: California
-    date_start: 2021-01-01
+    company_logo: ""
+    location: Lille
+    date_start: ""
     date_end: ""
-    description: |-2
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-  - title: Professor of Semiconductor Physics
-    company: University X
+    description: ""
+  - title: Chercheur en Histoire des Mathématiques
+    company: Associé au C.N.R.S. (U.M.R. 8524)
     company_url: ""
-    company_logo: org-x
+    company_logo: ""
     location: California
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: 1975
+    date_end: ""
+    description: Mathématiques arabes médiévales d’al-Andalus, du Maghreb et de l’Afrique subsaharienne
 widget_id: Experience
 headless: true
 weight: 40
