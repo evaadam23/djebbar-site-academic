@@ -27,16 +27,19 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Lille
+    date_start: '1972-01-01'
+    date_end: ''
+    description: .
    
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Chercheur en Histoire des Mathématiques
+    company: Associé au C.N.R.S. (U.M.R. 8524)
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Lille
+    date_start: '1975-01-01'
+    date_end: ''
+    description: Mathématiques arabes médiévales d’al-Andalus, du Maghreb et de l’Afrique subsaharienne.
 
 design:
   columns: '2'
