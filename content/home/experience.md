@@ -10,6 +10,7 @@ expérience:
     date_start: 2016-01-01
     date_end: 2020-12-31
     description: Taught electronic engineering and researched semiconductor physics.
+    
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ""
@@ -18,6 +19,7 @@ expérience:
     date_start: 2016-01-01
     date_end: 2020-12-31
     description: Taught electronic engineering and researched semiconductor physics.
+    
 widget_id: Experience
 headless: true
 weight: 40
