@@ -9,12 +9,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Expérience
+title: Experience
 subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: 	06 2006
+date_format: Jan 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -22,14 +22,19 @@ date_format: 	06 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Professeur Émérite
-    company: Université des Sciences et des Technologies 
+  - title: CEO
+    company: GenCoin
     company_url: ''
     company_logo: org-gc
-    location: Lille
-    date_start: ''
+    location: California
+    date_start: '2021-01-01'
     date_end: ''
-    description: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
         
   - title: Professor of Semiconductor Physics
     company: University X
