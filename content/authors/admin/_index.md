@@ -12,12 +12,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: graduation-cap
-    icon_pack: fas
-    link: "ahmed.djebbar@math.univ-lille1.fr\t"
-  - icon: envelope
-    icon_pack: fab
-    link: ahmed.djebbar@yahoo.fr
 organizations:
   - name: Université de Lille
     url: https://www.univ-lille.fr/
