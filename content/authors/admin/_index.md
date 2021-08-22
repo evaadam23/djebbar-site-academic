@@ -3,8 +3,7 @@ title: Ahmed Djebbar
 role: " Professeur émérite, mathématicien, historien des sciences et des
   mathématiques algérien"
 avatar_filename: ahmed_djebbar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Mathématiques
   - Histoire des Mathématiques
@@ -16,7 +15,7 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: "ahmed.djebbar@math.univ-lille1.fr\t"
-  - icon: yahoo
+  - icon: envelope
     icon_pack: fab
     link: ahmed.djebbar@yahoo.fr
 organizations:
