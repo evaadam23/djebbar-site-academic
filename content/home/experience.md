@@ -1,7 +1,7 @@
 ---
 widget: experience
 date_format: Jan 2006
-expérience:
+experience:
   - title: CEO
     company: GenCoin
     company_url: ""
@@ -26,7 +26,7 @@ expérience:
 widget_id: Experience
 headless: true
 weight: 40
-title: Experience
+title: expérience
 subtitle: null
 design:
   columns: "2"
