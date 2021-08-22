@@ -1,5 +1,5 @@
 ---
 widget: experience
 widget_id: experience
-weight: 50
+weight: 40
 ---
