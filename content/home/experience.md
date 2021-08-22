@@ -1,6 +1,6 @@
 ---
 widget: experience
-date_format: Jan 2006
+date_format: 2006
 experience:
   - title: Professeur Émérite
     company: Université des Sciences et des Technologies de Lille
@@ -13,7 +13,7 @@ experience:
   - title: Chercheur en Histoire des Mathématiques
     company: Associé au C.N.R.S. (U.M.R. 8524)
     company_url: ""
-    company_logo: ""
+    company_logo: 
     location: California
     date_start: 1975
     date_end: ""
