@@ -25,18 +25,18 @@ experience:
   - title: Professeur Émérite
     company: Université des Sciences et des Technologies
     company_url: ''
-    company_logo: org-gc
+    company_logo: 
     location: Lille
     date_start: '1972-01-01'
     date_end: ''
-    description: .
+    description: 
    
         
   - title: Chercheur en Histoire des Mathématiques
     company: Associé au C.N.R.S. (U.M.R. 8524)
     company_url: ''
-    company_logo: org-x
-    location: Lille
+    company_logo: 
+    location: 
     date_start: '1975-01-01'
     date_end: ''
     description: Mathématiques arabes médiévales d’al-Andalus, du Maghreb et de l’Afrique subsaharienne.
