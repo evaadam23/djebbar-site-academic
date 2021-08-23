@@ -25,7 +25,7 @@ authors:
   - Javier Conejero
   - Carlos Diaz
 publication: 2015 Software X
-featured: false
+featured: true
 tags:
   - compss
   - distributed computing
