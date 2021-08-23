@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: 'ocean'
+theme: 'forest'
 day_night: true
 font: ''
 font_size: L
@@ -61,7 +61,7 @@ main_menu:
   enable: true
   align: l
   show_logo: false
-  show_language: false
+  show_language: true
   show_day_night: true
   show_search: true
   highlight_active_link: true
