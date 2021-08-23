@@ -60,7 +60,7 @@ contact_links:
 main_menu:
   enable: true
   align: l
-  show_logo: false
+  show_logo: true
   show_language: true
   show_translations: true
   show_day_night: true
@@ -68,7 +68,7 @@ main_menu:
   highlight_active_link: true
   
 copyright_license:
-  enable: false
+  enable: true
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
