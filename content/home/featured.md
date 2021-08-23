@@ -4,7 +4,8 @@ widget_id: featured
 headless: true
 weight: 80
 title: Featured Publications
-subtitle: ""
+subtitle: <a href="https://ahmeddjebbar.netlify.app/publication/">Voire toutes
+  les publications</a>
 active: true
 content:
   page_type: publication
