@@ -39,12 +39,12 @@ url_project: ""
 publication_short: Software X
 url_source: ""
 url_video: ""
-doi: 10.1016/j.softx.2015.10.004
+doi: ""
 projects:
   - compss
-date: 2015-12-01T00:00:00Z
+date: 2015-12-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2015-12-01T00:00:00Z
+publishDate: 2015-12-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
