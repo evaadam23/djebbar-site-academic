@@ -1,5 +1,6 @@
 ---
 title: new publication
+url_pdf: https://doi.org/10.1016/j.softx.2015.10.004
 publication_types:
   - "0"
   - "5"
