@@ -6,8 +6,8 @@ publication_types:
 authors:
   - admin
 abstract: free doc
-draft: false
-featured: true
+draft: true
+featured: false
 tags:
   - math
 image:
