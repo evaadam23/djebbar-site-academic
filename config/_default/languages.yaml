@@ -11,7 +11,7 @@
 # Uncomment the lines below to configure your website in a second language.
 fr:
   languageCode: fr
-  #contentDir: content/fr
+  contentDir: content/fr
 #  title: Chinese website title...
 #  params:
 #    description: Site description in Chinese...
