@@ -61,19 +61,10 @@ main_menu:
   enable: true
   align: l
   show_logo: true
-  show_language: true
+  show_language: false
   show_day_night: true
   show_search: true
   highlight_active_link: true
-  
-copyright_license:
-  enable: true
-  allow_derivatives: false
-  share_alike: true
-  allow_commercial: false
-  notice: >-
-    Except as otherwise noted, this work is licensed under {license}, and code
-    samples are licensed under the MIT License.
 
 # Localization
 
@@ -118,7 +109,7 @@ abstract_length: 135
 plugins_js: []
 avatar:
   gravatar: false
-  shape: rectangular
+  shape: circle
 publications:
   date_format: January 2006
   citation_style: apa
@@ -130,7 +121,7 @@ breadcrumb:
   page_types:
     book: true
 comments:
-  provider: 'disqus'
+  provider: ''
   commentable:
     post: true
     book: true
@@ -138,7 +129,7 @@ comments:
     publication: true
     event: true
   disqus:
-    shortname: 'https-ahmeddjebbar-netlify-app'
+    shortname: ''
     show_count: true
   commento:
     url: ''
