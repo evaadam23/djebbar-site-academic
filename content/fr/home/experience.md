@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Expérience professionnelles
 subtitle:
 
 # Date format for experience
@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
-Chercheur en Histoire des Mathématiques, Associé au C.N.R.S. (U.M.R. 8524), (Mathématiques arabes médiévales d’al-Andalus, du Maghreb et de l’Afrique subsaharienne) : depuis 1975.
+
 
 
 
@@ -34,7 +34,7 @@ experience:
     location: Lille
     date_start: '1975-01-01'
     date_end: ''
-    description: 
+    description: Mathématiques arabes médiévales d’al-Andalus, du Maghreb et de l’Afrique subsaharienne
 
   - title: Conseiller à la Présidence de la République Algérienne pour l'éducation, la culture et la communication 
     company: Présidence de la République Algérienne
