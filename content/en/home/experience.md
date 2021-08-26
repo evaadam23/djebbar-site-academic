@@ -33,7 +33,7 @@ experience:
     description: Mathématiques arabes médiévales d’al-Andalus, du Maghreb et de l’Afrique subsaharienne.
 
   - title: Conseiller à la Présidence de la République Algérienne pour l'éducation, la culture et la communication
-    company: 
+    company: Ministère
     company_url: ''
     company_logo: 
     location: Algérie
@@ -42,7 +42,7 @@ experience:
     description: 
 
    - title: Ministre de l'Éducation Nationale, de l'Enseignement Supérieur et de la Recherche Scientifique
-    company: 
+    company: Ministère
     company_url: ''
     company_logo: 
     location: Algérie
