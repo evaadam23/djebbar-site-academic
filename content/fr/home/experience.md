@@ -21,29 +21,47 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
+Chercheur en Histoire des Mathématiques, Associé au C.N.R.S. (U.M.R. 8524), (Mathématiques arabes médiévales d’al-Andalus, du Maghreb et de l’Afrique subsaharienne) : depuis 1975.
+
+
+
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Chercheur en Histoire des Mathématiques
+    company: C.N.R.S
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Lille
+    date_start: '1975-01-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+    description: 
+
+  - title: Conseiller à la Présidence de la République Algérienne pour l'éducation, la culture et la communication 
+    company: Présidence de la République Algérienne
+    company_url: ''
+    company_logo: org-gc
+    location: Algérie
+    date_start: '1992-01-18'
+    date_end: '1992-06-29'
+    description: 
+     
+  - title: Ministre de l'Éducation Nationale, de l'Enseignement Supérieur et de la Recherche Scientifique 
+    company: Présidence de la République Algérienne
+    company_url: ''
+    company_logo: org-gc
+    location: Algérie
+    date_start: '1992-07-19'
+    date_end: '1994-04-16'
+    description: 
+    
+  - title: Professeur Émérite
+    company: Université des Sciences et des Technologies
     company_url: ''
     company_logo: org-x
-    location: California
+    location: Lille
     date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_end: ''
+    description: 
 
 design:
   columns: '2'
