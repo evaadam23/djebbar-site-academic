@@ -17,7 +17,7 @@ social:
     icon_pack: fas
     icon: graduation-cap
 organizations:
-  - name: Université de Lille
+  - name: Lille University
     url: https://www.univ-lille.fr/
 education:
   courses:
