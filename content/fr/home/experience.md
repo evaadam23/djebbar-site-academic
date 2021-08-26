@@ -22,16 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Professeur Émérite
-    company: Université des Sciences et des Technologies
-    company_url: ''
-    company_logo: 
-    location: Lille
-    date_start: '1972-01-01'
-    date_end: ''
-    description: 
-   
-        
+    
   - title: Chercheur en Histoire des Mathématiques
     company: Associé au C.N.R.S. (U.M.R. 8524)
     company_url: ''
@@ -40,6 +31,35 @@ experience:
     date_start: '1975-01-01'
     date_end: ''
     description: Mathématiques arabes médiévales d’al-Andalus, du Maghreb et de l’Afrique subsaharienne.
+
+  - title: Conseiller à la Présidence de la République Algérienne pour l'éducation, la culture et la communication
+    company: 
+    company_url: ''
+    company_logo: 
+    location: Algérie
+    date_start: '1992-01-18'
+    date_end: '1992-06-29'
+    description: 
+
+   - title: Ministre de l'Éducation Nationale, de l'Enseignement Supérieur et de la Recherche Scientifique
+    company: 
+    company_url: ''
+    company_logo: 
+    location: Algérie
+    date_start: '1992-07-19'
+    date_end: '1994-04-16'
+    description: 
+
+
+  - title: Professeur Émérite
+    company: Université des Sciences et des Technologies
+    company_url: ''
+    company_logo: 
+    location: Lille
+    date_start: '1972-01-01'
+    date_end: ''
+    description:  
+
 
 design:
   columns: '2'
