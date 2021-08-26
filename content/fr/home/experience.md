@@ -30,7 +30,7 @@ experience:
   - title: Chercheur en Histoire des Mathématiques
     company: C.N.R.S
     company_url: ''
-    company_logo: org-gc
+    company_logo: ch
     location: Lille
     date_start: '1975-01-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Conseiller à la Présidence de la République Algérienne pour l'éducation, la culture et la communication 
     company: Présidence de la République Algérienne
     company_url: ''
-    company_logo: org-gc
+    company_logo: cp
     location: Algérie
     date_start: '1992-01-18'
     date_end: '1992-06-29'
@@ -48,7 +48,7 @@ experience:
   - title: Ministre de l'Éducation Nationale, de l'Enseignement Supérieur et de la Recherche Scientifique 
     company: Présidence de la République Algérienne
     company_url: ''
-    company_logo: org-gc
+    company_logo: me
     location: Algérie
     date_start: '1992-07-19'
     date_end: '1994-04-16'
@@ -57,7 +57,7 @@ experience:
   - title: Professeur Émérite
     company: Université des Sciences et des Technologies
     company_url: ''
-    company_logo: org-x
+    company_logo: pe
     location: Lille
     date_start: '2016-01-01'
     date_end: ''
