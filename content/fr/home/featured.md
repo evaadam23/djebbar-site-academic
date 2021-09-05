@@ -3,13 +3,13 @@ widget: featured
 widget_id: featured
 headless: true
 weight: 80
-title: Featured Publications
+title: Publications en vedette
 subtitle: <a href="https://ahmeddjebbar.netlify.app/publication/">Voire toutes
   les publications</a>
-active: false
+active: true
 content:
   page_type: publication
-  count: 0
+  count: 3
   filters:
     author: ""
     category: ""
@@ -17,7 +17,7 @@ content:
     tag: ""
   order: desc
 design:
-  view: 3
+  view: 2
 ---
  <style>
    footer p:nth-child(2) {
