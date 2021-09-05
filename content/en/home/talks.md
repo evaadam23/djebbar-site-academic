@@ -9,14 +9,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: 'Recent & Upcoming Talks'
+title: 'Discussions and conferences'
 subtitle:
 
 content:
   # Page type to display. E.g. post, event, publication...
   page_type: event
   # Choose how many pages you would like to display (0 = all pages)
-  count: 5
+  count: 2
   # Filter on criteria
   filters:
     author: ""
@@ -39,3 +39,13 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+ <style>
+   footer p:nth-child(2) {
+    font-size: 0.75rem;
+    text-align: center;
+    display: none;
+}
+blockquote{
+  display: none;
+}
+ </style>

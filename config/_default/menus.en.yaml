@@ -10,11 +10,11 @@ main:
   - name: Experience 
     url: '#experience'
     weight: 20
-  - name: Membre
-    url: '#projects'
+  - name: activities 
+    url: '#accomplishments'
     weight: 30
   - name: Conferences
-    url: '#talks'
+    url: 'event/'
     weight: 40
   - name: Activité de recherche et publications
     url: 'publication/'

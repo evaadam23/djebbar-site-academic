@@ -31,7 +31,7 @@ content:
     tag: Deep Learning
   - name: Other
     tag: Demo
-
+active: false
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
@@ -46,3 +46,10 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+ <style>
+   footer p:nth-child(2) {
+    font-size: 0.75rem;
+    text-align: center;
+    display: none;
+}
+ </style>

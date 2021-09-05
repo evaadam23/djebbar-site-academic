@@ -34,9 +34,12 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 4
+  view: 2
 ---
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+ <style>
+   footer p:nth-child(2) {
+    font-size: 0.75rem;
+    text-align: center;
+    display: none;
+}
+ </style>

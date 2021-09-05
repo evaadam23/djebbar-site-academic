@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Discussions and conferences
 cms_exclude: true
 
 # View.
@@ -13,3 +13,13 @@ header:
   caption: ""
   image: ""
 ---
+ <style>
+   footer p:nth-child(2) {
+    font-size: 0.75rem;
+    text-align: center;
+    display: none;
+}
+blockquote{
+  display: none;
+}
+ </style>

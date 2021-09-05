@@ -7,14 +7,14 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Expérience professionnelles
+  - name: Expériences
     url: '#experience'
     weight: 20
-  - name: Membre
-    url: '#projects'
+  - name: Activités 
+    url: '#accomplishments'
     weight: 30
   - name: Conférences
-    url: '#talks'
+    url: 'event/'
     weight: 40
   - name: Activité de recherche et publications
     url: 'publication/'

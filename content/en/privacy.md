@@ -11,3 +11,10 @@ header:
 ---
 
 Add your privacy policy here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
+ <style>
+       footer p {
+    font-size: 0.75rem;
+    text-align: center;
+    display: none;
+}
+ </style>

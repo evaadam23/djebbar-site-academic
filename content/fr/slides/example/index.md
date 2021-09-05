@@ -164,3 +164,10 @@ Create `assets/css/reveal_custom.css` with:
 [Ask](https://github.com/wowchemy/wowchemy-hugo-modules/discussions)
 
 [Documentation](https://wowchemy.com/docs/managing-content/#create-slides)
+ <style>
+   footer p:nth-child(2) {
+    font-size: 0.75rem;
+    text-align: center;
+    display: none;
+}
+ </style>

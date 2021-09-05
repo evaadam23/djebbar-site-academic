@@ -30,7 +30,7 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
-
+active: false
 design:
   # Choose a view for the listings:
   #   1 = List
@@ -39,3 +39,10 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+ <style>
+   footer p:nth-child(2) {
+    font-size: 0.75rem;
+    text-align: center;
+    display: none;
+}
+ </style>

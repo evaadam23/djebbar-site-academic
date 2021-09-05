@@ -4,8 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Ahmed Djebbar # Website name
-baseurl: 'https://example.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+baseurl: 'https://ahmeddjebbar.netlify.app/' # Website URL
+copyright: '© 2021 ·Powered by the <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a>  for
+<a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>' # Footer text, e.g. '© {year} Me' <p class="powered-by">© 2020 ·
 
 ############################
 ## LANGUAGE
