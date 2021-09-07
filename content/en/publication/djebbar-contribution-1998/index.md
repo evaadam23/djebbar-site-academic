@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Contribution à l'étude des activités mathématiques dans l'Occident musulman
-  (IXe-XVIe siècles
+title: Contribution to the study of the mathematical activities in the Moslem West (IXth-XVIth centuries)
 subtitle: ''
 summary: ''
 authors:
@@ -32,7 +31,7 @@ publishDate: '2021-09-05T10:50:13.959435Z'
 publication_types:
 - '7'
 abstract: ''
-publication: ''
+publication: 'Paris, School of the High Studies in Social Sciences'
 ---
 <style>
    footer p:nth-child(2) {

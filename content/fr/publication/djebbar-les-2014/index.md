@@ -3,7 +3,7 @@
 
 title: Les mathématiques arabes (IXe-XVIe s.), Textes et documents
 subtitle: ''
-summary: ''
+summary: 'Programmes nationaux de recherche (Ed. CRASC, Oran).: Education et formation'
 authors:
 - Ahmed Djebbar
 tags: []
@@ -33,6 +33,7 @@ publication_types:
 abstract: ''
 publication: '*CRASC*'
 ---
+
 <style>
    footer p:nth-child(2) {
     font-size: 0.75rem;

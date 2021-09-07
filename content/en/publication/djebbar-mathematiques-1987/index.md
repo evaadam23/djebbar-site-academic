@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Mathématiques au fil des âges
+title: Mathematics through ages
 subtitle: ''
 summary: ''
 authors:
@@ -32,7 +32,7 @@ publishDate: '2021-09-05T11:15:56.208501Z'
 publication_types:
 - '5'
 abstract: ''
-publication: ''
+publication: 'Paris, Gauthiers-Villars'
 ---
 <style>
    footer p:nth-child(2) {

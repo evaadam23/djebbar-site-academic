@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Résolution de problèmes de Cauchy par la méthode d'Ovcyannikov, Thèse de Doctorat
-  de 3e cycle
+title: Resolution of problems of Cauchy by the method of Ovcyannikov, Ph D. Thesis 
 subtitle: ''
 summary: ''
 authors:
@@ -32,7 +31,7 @@ publishDate: '2021-09-05T10:50:12.065018Z'
 publication_types:
 - '7'
 abstract: ''
-publication: ''
+publication: 'Paris, University of Paris-South'
 ---
 <style>
    footer p:nth-child(2) {

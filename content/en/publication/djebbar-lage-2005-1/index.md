@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: L’âge d’or des sciences arabes
-subtitle: 'Seconde édition : 2013' 
-summary: Astronomie, médecine, mathématiques, géographie... autant de domaines dans lesquels la civilisation arabo-musulmane apporta des contributions originales. Non seulement elle assimila les savoirs grec, indien, babylonien, égyptien qu'elle sût transmettre au temps des grandes traductions, ...
+title: The golden age of Arabic sciences
+subtitle: 'Second edition : 2013' 
+summary: Astronomy, medicine, mathematics, geography ... so many fields in which the Arab-Muslim civilization made original contributions. Not only did she assimilate the Greek, Indian, Babylonian, Egyptian knowledge that she knew how to transmit at the time of the great translations, but she also developed a great scientific tradition specifically Arab,...
 authors:
 - Ahmed Djebbar
 tags: []
@@ -30,7 +30,7 @@ projects: []
 publishDate: '2021-09-05T11:16:00.924291Z'
 publication_types:
 - '5'
-abstract: Astronomie, médecine, mathématiques, géographie... autant de domaines dans lesquels la civilisation arabo-musulmane apporta des contributions originales. Non seulement elle assimila les savoirs grec, indien, babylonien, égyptien qu'elle sût transmettre au temps des grandes traductions, mais elle élabora aussi une grande tradition scientifique proprement arabe, avec de grands noms comme Ibn Sînâ (Avicenne), le mathématicien et astronome al-Khwârizmi ou encore le scientifique et polygraphe Al-Bîrûnî, pour ne citer qu'eux... Revenir sur l'âge d'or des sciences arabes, entre les VIIIe et XIVe siècles, nous permet de mieux comprendre cet héritage mal connu et de suivre la circulation des savoirs en Méditerranée, depuis la Grèce jusqu'à l'Europe médiévale.
+abstract: Astronomy, medicine, mathematics, geography ... so many fields in which the Arab-Muslim civilization made original contributions. Not only did she assimilate the Greek, Indian, Babylonian, Egyptian knowledge that she knew how to transmit at the time of the great translations, but she also developed a great scientific tradition specifically Arab, with great names like Ibn Sînâ (Avicenna), the mathematician and astronomer al-Khwârizmi or the scientist and polygraph Al-Bîrûnî, to name but a few ... Returning to the golden age of Arab sciences, between the 8th and 14th centuries, allows us to better understand this little-known heritage and to follow the circulation of knowledge in the Mediterranean, from Greece to medieval Europe.
 publication: ''
 ---
 <style>

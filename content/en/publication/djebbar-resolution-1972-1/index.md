@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Résolution de certains problèmes caractéristiques, Compte Rendu de l'Académie
+title: Resolution of characteristic problems, Compte-rendus de l’Académie des Sciences
   des Sciences
 subtitle: ''
 summary: ''

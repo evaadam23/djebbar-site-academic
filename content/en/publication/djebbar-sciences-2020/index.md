@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Sciences et savoir d’Orient : Héritage et transmission de -3300 à + 1500'
+title: 'Sciences and knowledge of the Orient: Inheritance and transmission from -3300 to + 1500'
 subtitle: ''
-summary: "Les résultats de nombreuses recherches menées au cours des deux derniers siècles, concernant les sciences développées au Proche-Orient entre le -XXXIIIe siècle (av. J.-C.) et le +XVe siècle (ap. J.-C.), sont exposés dans cet ouvrage. La première partie concerne la contribution fondamentale des cultures du Proche-Orient ancien à la naissance et au développement des sciences, entre le -XXXIIIe siècle et le +VIIe siècle..."
+summary: "The results of numerous researches carried out over the last two centuries, concerning the sciences developed in the Near East between the -XXXIIIth century (BC) and the + 15th century (AD), are exposed in this book. The first part concerns the fundamental contribution of the cultures of the ancient Near East to the birth and development of the sciences, between the -XXXIIIth century and the +7th century..."
 authors:
 - Ahmed Djebbar
 - Antoine Khater
@@ -31,10 +31,10 @@ projects: []
 publishDate: '2021-09-05T11:16:05.122584Z'
 publication_types:
 - '5'
-abstract: "Les résultats de nombreuses recherches menées au cours des deux derniers siècles, concernant les sciences développées au Proche-Orient entre le -XXXIIIe siècle (av. J.-C.) et le +XVe siècle (ap. J.-C.), sont exposés dans cet ouvrage. La première partie concerne la contribution fondamentale des cultures du Proche-Orient ancien à la naissance et au développement des sciences, entre le -XXXIIIe siècle et le +VIIe siècle.
-La question de la transmission de ces sciences à d'autres civilisations de la Méditerranée, avant le +VIIIe siècle, se pose. Sur ce thème précis, les éléments fournis par les sources, sont complétés par l'étude d'hypothèses crédibles sur quelques aspects de cette transmission et semblent apporter un éclairage inédit. La deuxième partie de l'ouvrage dresse, dans un premier temps, un bilan des connaissances portant sur les héritages anciens, à l'origine de la naissance d'une nouvelle phase scientifique et technologique au Proche-Orient, et ce à partir du +VIIIe siècle.
-Un autre, provisoire, éclaire le contenu de la tradition entre le +IVe et le +XVe siècles ; période de grand développement scientifique au sein de l'empire arabo-musulman et sa civilisation, avec des prolongements significatifs hors de ses frontières, à l'Est et à l'Ouest."
-publication: '*Éditions Geuthner*'
+abstract: "The results of numerous researches carried out over the last two centuries, concerning the sciences developed in the Near East between the -XXXIIIth century (BC) and the + 15th century (AD), are exposed in this book. The first part concerns the fundamental contribution of the cultures of the ancient Near East to the birth and development of the sciences, between the -XXXIIIth century and the +7th century.
+The question of the transmission of these sciences to other civilizations of the Mediterranean, before the 8th century, arises. On this specific theme, the elements provided by the sources are supplemented by the study of credible hypotheses on some aspects of this transmission and seem to shed new light. The second part of the book first draws up an assessment of the knowledge relating to the old heritages, at the origin of the birth of a new scientific and technological phase in the Middle East, and this from + 8th century.
+Another, provisional, sheds light on the content of the tradition between the 4th and 15th centuries; period of great scientific development within the Arab-Muslim empire and its civilization, with significant extensions beyond its borders, to the East and the West."
+publication: '*Geuthner Edition*'
 ---
 <style>
    footer p:nth-child(2) {

@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Pour l’histoire des sciences et des techniques
+title: For the history of science and technology
 subtitle: ''
-summary: "Les avancées scientifiques ont rythmé les transformations de la culture contemporaine. L'histoire des sciences permet d'appréhender l'évolution des savoirs, mais aussi celle des représentations et des idées. Présente dans la plupart des programmes scolaires, elle met en relation les champs disciplinaires. Mémento pour les professeurs, cet ouvrage est un précieux outil d'analyse destiné à introduire cette perspective dans l'enseignement.
-Il rappelle les objets et les méthodes de l'historien des sciences, présente les conceptions et les visions du monde qui ont accompagné les révolutions scientifiques. Il évoque les principaux aspects de la question au long d'encadrés et de bibliographies commentées, sans éluder ses dimensions politiques et sociales."
+summary: "Scientific advances have punctuated the transformations of contemporary culture. The history of science makes it possible to understand the evolution of knowledge, but also that of representations and ideas. Present in most school programs, it connects disciplinary fields. Memento for teachers, this book is a valuable analytical tool intended to introduce this perspective into teaching.
+It recalls the objects and methods of the historian of science, presents the conceptions and visions of the world that have accompanied the scientific revolutions. It evokes the main aspects of the question through boxes and annotated bibliographies, without avoiding its political and social dimensions."
 authors:
 - Ahmed Djebbar
 - Gabriel Gohau 
@@ -33,8 +33,8 @@ projects: []
 publishDate: '2021-09-05T11:16:01.610895Z'
 publication_types:
 - '5'
-abstract: "Les avancées scientifiques ont rythmé les transformations de la culture contemporaine. L'histoire des sciences permet d'appréhender l'évolution des savoirs, mais aussi celle des représentations et des idées. Présente dans la plupart des programmes scolaires, elle met en relation les champs disciplinaires. Mémento pour les professeurs, cet ouvrage est un précieux outil d'analyse destiné à introduire cette perspective dans l'enseignement.
-Il rappelle les objets et les méthodes de l'historien des sciences, présente les conceptions et les visions du monde qui ont accompagné les révolutions scientifiques. Il évoque les principaux aspects de la question au long d'encadrés et de bibliographies commentées, sans éluder ses dimensions politiques et sociales."
+abstract: "Scientific advances have punctuated the transformations of contemporary culture. The history of science makes it possible to understand the evolution of knowledge, but also that of representations and ideas. Present in most school programs, it connects disciplinary fields. Memento for teachers, this book is a valuable analytical tool intended to introduce this perspective into teaching.
+It recalls the objects and methods of the historian of science, presents the conceptions and visions of the world that have accompanied the scientific revolutions. It evokes the main aspects of the question through boxes and annotated bibliographies, without avoiding its political and social dimensions."
 publication: '*Hachette*'
 ---
 <style>

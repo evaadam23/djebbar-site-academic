@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: La géométrie dans les arts décoratifs islamiques, Le Caire, Centre Français
-  pour la Culture et la coopération6
+title: Geometry in the Islamic Decorative Arts, Cairo, French Center for Cultural Cooperation
 subtitle: ''
 summary: ''
 authors:

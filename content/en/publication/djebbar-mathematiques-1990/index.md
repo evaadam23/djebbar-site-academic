@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Mathématiques et mathématiciens du Maghreb médiéval (IXe-XVIe siècles) : Contribution\
-  \ à l'étude des activités scientifiques de l'Occident musulman"
+title: "Mathematics and Mathematicians of the medieval Maghreb (IXth-XVIth centuries): Contribution\
+  \ to the study of the scientific activities of the Moslem West"
 subtitle: ''
-summary: "La these rassemble une partie des etudes que j'ai realisees en histoire des mathematiques, entre 1980 et 1990. Ces etudes concernent les activites d'enseignement et de recherche mathematiques dans le maghreb medieval (9e-16e siecles) et elles reposent essentiellement sur des manuscrits inedits dont certains etaient inconnus jusqu'a ces dernieres annees. Les disciplines mathematiques qui ont fait l'objet de ma recherche sont: l'algebre, la science du calcul, la theorie des nombres, la geometrie et l'analyse combinatoire. La these contient egalement l'edition critique de trois textes mathematiques arabes accompagnes de leur traduction francaise"
+summary: "The thesis brings together a part of the studies that I carried out in the history of mathematics, between 1980 and 1990. These studies concern the activities of teaching and mathematical research in the medieval Maghreb (9th-16th centuries) and they are essentially based on unpublished manuscripts, some of which were unknown until recent years. The mathematical disciplines that were the subject of my research are: algebra, the science of calculus, number theory, geometry and combinatorial analysis. The thesis also contains the critical edition of three Arabic mathematical texts accompanied by their French translation."
 authors:
 - Ahmed Djebbar
 tags: []
@@ -31,7 +31,7 @@ projects: []
 publishDate: '2021-09-05T10:50:13.378396Z'
 publication_types:
 - '7'
-abstract: "La these rassemble une partie des etudes que j'ai realisees en histoire des mathematiques, entre 1980 et 1990. Ces etudes concernent les activites d'enseignement et de recherche mathematiques dans le maghreb medieval (9e-16e siecles) et elles reposent essentiellement sur des manuscrits inedits dont certains etaient inconnus jusqu'a ces dernieres annees. Les disciplines mathematiques qui ont fait l'objet de ma recherche sont: l'algebre, la science du calcul, la theorie des nombres, la geometrie et l'analyse combinatoire. La these contient egalement l'edition critique de trois textes mathematiques arabes accompagnes de leur traduction francaise"
+abstract: "The thesis brings together a part of the studies that I carried out in the history of mathematics, between 1980 and 1990. These studies concern the activities of teaching and mathematical research in the medieval Maghreb (9th-16th centuries) and they are essentially based on unpublished manuscripts, some of which were unknown until recent years. The mathematical disciplines that were the subject of my research are: algebra, the science of calculus, number theory, geometry and combinatorial analysis. The thesis also contains the critical edition of three Arabic mathematical texts accompanied by their French translation."
 publication: ''
 ---
 <style>

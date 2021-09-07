@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Al-Khwarizmi, l’algèbre et le calcul indien
+title: Al-Khwarizmi, Algebra and Indian Arithmetic
 subtitle: ''
-summary: "l-Khwârizmî, L'algèbre et Le calcul indien.
-Le mot algèbre tire son origine du titre de l'ouvrage Kitâb al-jabr wa'l-muqabala, de l'astronome, géographe et mathématicien persan al-Khwârizmî (780-850). Largement traduit et répandu en Europe, sous le terme général d'Algorismus (qui a donné lui-même le mot algorithme), on y trouve l'énoncé de la distributivité, la règle dite des signes, la solution de tous les types d'équations du second degré et la résolution de multiples problèmes...."
+summary: "l-Khwârizmî, Algebra and Indian calculus.
+The word algebra originates from the title of the work Kitâb al-jabr wa'l-muqabala, by the Persian astronomer, geographer and mathematician al-Khwârizmî (780-850). Widely translated and widespread in Europe, under the general term of Algorismus (which itself gave the word algorithm), we find the statement of distributivity, the so-called rule of signs, the solution of all types of quadratic equations and solving multiple problems..."
 authors:
 - Ahmed Djebbar
 tags: []
@@ -31,9 +31,9 @@ projects: []
 publishDate: '2021-09-05T11:16:03.490085Z'
 publication_types:
 - '5'
-abstract: "l-Khwârizmî, L'algèbre et Le calcul indien.
-Le mot algèbre tire son origine du titre de l'ouvrage Kitâb al-jabr wa'l-muqabala, de l'astronome, géographe et mathématicien persan al-Khwârizmî (780-850). Largement traduit et répandu en Europe, sous le terme général d'Algorismus (qui a donné lui-même le mot algorithme), on y trouve l'énoncé de la distributivité, la règle dite des signes, la solution de tous les types d'équations du second degré et la résolution de multiples problèmes. Al-Khwârizmî avait aussi écrit un livre important pour la diffusion des chiffres et du système décimal positionnel emprunté à l'Inde et à ses savants : Le Livre sur le calcul indien."
-publication: '*Éditions Kangourou*'
+abstract: "l-Khwârizmî, Algebra and Indian calculus.
+The word algebra originates from the title of the work Kitâb al-jabr wa'l-muqabala, by the Persian astronomer, geographer and mathematician al-Khwârizmî (780-850). Widely translated and widespread in Europe, under the general term of Algorismus (which itself gave the word algorithm), we find the statement of distributivity, the so-called rule of signs, the solution of all types of quadratic equations and solving multiple problems. Al-Khwârizmî had also written an important book for the dissemination of figures and the positional decimal system borrowed from India and its scholars: The Book on Indian Calculus."
+publication: '*Paris, Kangourou Edition*'
 ---
 <style>
    footer p:nth-child(2) {

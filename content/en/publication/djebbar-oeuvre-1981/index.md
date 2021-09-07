@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: L'oeuvre algébrique d'al-Khayyam, traduction française et analyse, Alep, Institut
-  d’Histoire des Sciences Arabes
+title: The algebraic work of al-Khayyâm, critical edition, French translation and analysis, Alep, Institute for the History of Arabic Sciences
 subtitle: ''
 summary: ''
 authors:

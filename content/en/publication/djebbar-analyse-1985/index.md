@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "L'analyse combinatoire au Maghreb : l'exemple d'Ibn Muncim (XIIe-XIIIe siècles"
+title: "Combinatory analysis in the Maghrib: Ibn Muncim example (XII-XIIIth centuries)"
 subtitle: ''
 summary: ''
 authors:
@@ -31,7 +31,7 @@ publishDate: '2021-09-05T11:15:55.579786Z'
 publication_types:
 - '5'
 abstract: ''
-publication: '*Université Paris-Sud, Prépublication*'
+publication: '*Mathematical Series of Orsay University*'
 ---
 <style>
    footer p:nth-child(2) {

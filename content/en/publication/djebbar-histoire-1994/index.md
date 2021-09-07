@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Histoire d'algorithmes, du caillou à la puce
+title: A History of Algorithms, From the Pebble to the Microchip
 subtitle: ''
 summary: ''
 authors:

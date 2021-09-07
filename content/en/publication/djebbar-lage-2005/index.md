@@ -1,10 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: L’âge d’or des sciences arabes, Catalogue de l’exposition de l’Institut du
-  Monde Arabe
+title: The golden age of Arabic sciences, Exhibition Catalog of the Arab World Institute
 subtitle: ''
-summary: "Evoque l'âge d'or de la science arabe (VIIIe-XIVe siècles) et les grands noms de cette période : Ibn Sînâ (Avicenne), le mathématicien et astronome Al-Kharezmi, et le géographe et historien Al-Bîrûnî. Cinq chapitres permettent de contextualiser cet essor scientifique, d'en exposer les éléments les plus significatifs et d'éclairer le rôle de la circulation de la science arabe en Europe."
+summary: "Evokes the golden age of Arab science (8th-14th centuries) and the great names of this period: Ibn Sînâ (Avicenna), the mathematician and astronomer Al-Kharezmi, and the geographer and historian Al-Bîrûnî. Five chapters allow to contextualize this scientific development, to expose the most significant elements and to shed light on the role of the circulation of Arab science in Europe."
 
 authors:
 - Ahmed Djebbar
@@ -32,7 +31,7 @@ projects: []
 publishDate: '2021-09-05T11:16:00.284557Z'
 publication_types:
 - '5'
-abstract: "Evoque l'âge d'or de la science arabe (VIIIe-XIVe siècles) et les grands noms de cette période : Ibn Sînâ (Avicenne), le mathématicien et astronome Al-Kharezmi, et le géographe et historien Al-Bîrûnî. Cinq chapitres permettent de contextualiser cet essor scientifique, d'en exposer les éléments les plus significatifs et d'éclairer le rôle de la circulation de la science arabe en Europe."
+abstract: "Evokes the golden age of Arab science (8th-14th centuries) and the great names of this period: Ibn Sînâ (Avicenna), the mathematician and astronomer Al-Kharezmi, and the geographer and historian Al-Bîrûnî. Five chapters allow to contextualize this scientific development, to expose the most significant elements and to shed light on the role of the circulation of Arab science in Europe."
 
 publication: ''
 ---

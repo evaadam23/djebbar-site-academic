@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Enseignement et Recherche mathématiques dans le Maghreb des XIIIe-XIVe siècles
+title: Mathematical teaching and research in the Maghrib during the XIII-XIVth centuries
 subtitle: ''
 summary: ''
 authors:
@@ -31,7 +31,7 @@ publishDate: '2021-09-05T11:15:54.251010Z'
 publication_types:
 - '5'
 abstract: ''
-publication: "*Université Paris-Sud, Publications Mathématiques d'Orsay*"
+publication: "*Paris, Mathematical Series of Orsay University*"
 ---
 <style>
    footer p:nth-child(2) {

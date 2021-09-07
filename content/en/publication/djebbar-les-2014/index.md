@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Les mathématiques arabes (IXe-XVIe s.), Textes et documents
+title: Arab mathematics (9th-16th century), Texts and documents
 subtitle: ''
-summary: ''
+summary: 'national research programs (Ed. CRASC, Oran) .: Education and training'
 authors:
 - Ahmed Djebbar
 tags: []
@@ -33,6 +33,7 @@ publication_types:
 abstract: ''
 publication: '*CRASC*'
 ---
+
 <style>
    footer p:nth-child(2) {
     font-size: 0.75rem;
@@ -43,3 +44,4 @@ blockquote{
   display: none;
 }
  </style>
+

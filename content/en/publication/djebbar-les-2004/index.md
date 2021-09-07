@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Les mathématiques dans l’Histoire et les cultures africaines, une bibliographie
-  annotée
+title: Mathematics in History and African Cultures, Annotated Bibliography
 subtitle: ''
 summary: ''
 authors:
@@ -32,8 +31,7 @@ publishDate: '2021-09-05T11:15:58.734633Z'
 publication_types:
 - '5'
 abstract: ''
-publication: '*U.F.R. de Mathématiques, Université des Sciences et des Technologies
-  de Lille (France)*'
+publication: '*U.F.R. of Mathématiques, Université des Sciences et des Technologies de Lille (France)*'
 ---
 <style>
    footer p:nth-child(2) {

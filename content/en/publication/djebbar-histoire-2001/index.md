@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Une histoire de la science arabe
+title: A History of Arabic science
 subtitle: ''
-summary: "L'histoire des sciences occidentale a longtemps affirmé qu'entre ' miracle grec ' et Renaissance, l'obscurantisme le plus total avait régné. La raison revenant, il est apparu que les savants des pays d'Islam, du VIIIe au XVe siècle, avaient certes traduit les ouvrages grecs et indiens, mais surtout défriché des domaines des sciences et des techniques qui ne se constitueront que bien plus tard en Europe..."
+summary: "The history of Western science has long claimed that between the 'Greek miracle' and the Renaissance, utter obscurantism reigned. The reason returning, it appeared that the scholars of the countries of Islam, from the 8th to the 15th century, had certainly translated Greek and Indian works, but above all cleared the fields of science and technology which would not be established until much later in Europe..."
 authors:
 - Ahmed Djebbar
 - Rosmorduc Jean
@@ -31,9 +31,9 @@ projects: []
 publishDate: '2021-09-05T11:15:57.417880Z'
 publication_types:
 - '5'
-abstract: "L'histoire des sciences occidentale a longtemps affirmé qu'entre ' miracle grec ' et Renaissance, l'obscurantisme le plus total avait régné. La raison revenant, il est apparu que les savants des pays d'Islam, du VIIIe au XVe siècle, avaient certes traduit les ouvrages grecs et indiens, mais surtout défriché des domaines des sciences et des techniques qui ne se constitueront que bien plus tard en Europe.
-C'est la longue histoire de ce flamboiement culturel injustement méconnu qui est narrée ici. De Bagdad en Andalousie, des algorithmes d'al-Khwarizmi à la floraison des ouvrages savants, c'est toute une civilisation qui revit, où la liberté de pensée et la tolérance se sont alliées pour faire remarquablement progresser le patrimoine scientifique commun."
-publication: '*Éditions du Seuil*'
+abstract: "The history of Western science has long claimed that between the 'Greek miracle' and the Renaissance, utter obscurantism reigned. The reason returning, it appeared that the scholars of the countries of Islam, from the 8th to the 15th century, had certainly translated Greek and Indian works, but above all cleared the fields of science and technology which would not be established until much later in Europe.
+It is the long history of this unfairly ignored cultural blaze that is told here. From Baghdad in Andalusia, from the algorithms of al-Khwarizmi to the flowering of scholarly works, a whole civilization comes back to life, where freedom of thought and tolerance have come together to remarkably advance the common scientific heritage."
+publication: '*Paris, Seuil*'
 ---
 <style>
    footer p:nth-child(2) {

@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Les sciences arabes en Afrique, Astronomie et mathématiques (IXe-XIXe siècles)
+title: Arabic Sciences in Africa, Astronomy and Mathematics (9th-19th Centuries),
 subtitle: ''
-summary: "Dans les bibliothèques du désert, des manuscrits traitent de thèmes scientifiques qui font intervenir les mathématiques et l'astronomie sous diverses formes. Ce livre nous fait découvrir leurs richesses et diversités, tout en contextualisant cette tradition scientifique née au nord de l'Afrique au début du IXe siècle..."
+summary: "In the libraries of the desert, manuscripts deal with scientific themes which involve mathematics and astronomy in various forms. This book makes us discover their wealth and diversity, while contextualizing this scientific tradition born in northern Africa at the beginning of the 9th century...."
 authors:
 - Ahmed Djebbar
 - Marc Moyon
@@ -31,7 +31,7 @@ projects: []
 publishDate: '2021-09-05T11:16:02.887790Z'
 publication_types:
 - '5'
-abstract: "Dans les bibliothèques du désert, des manuscrits traitent de thèmes scientifiques qui font intervenir les mathématiques et l'astronomie sous diverses formes. Ce livre nous fait découvrir leurs richesses et diversités, tout en contextualisant cette tradition scientifique née au nord de l'Afrique au début du IXe siècle. Dans cette version bilingue de la Nubdha fi ilm al-hisab, un manuscrit arabe inédit datant sans doute du début du XXe siècle et, pour la première fois, traduit en français, Ahmad Babir al-Arawani explique les procédés du calcul dit indien dans la tradition mathématique arabe."
+abstract: "In the libraries of the desert, manuscripts deal with scientific themes which involve mathematics and astronomy in various forms. This book makes us discover their wealth and diversity, while contextualizing this scientific tradition born in northern Africa at the beginning of the 9th century. In this bilingual version of the Nubdha fi ilm al-hisab, an unpublished Arabic manuscript probably dating from the beginning of the 20th century and, for the first time, translated into French, Ahmad Babir al-Arawani explains the processes of the so-called Indian calculation in the Arabic mathematical tradition."
 publication: '*Grandvaux-Vecmas*'
 ---
 <style>
